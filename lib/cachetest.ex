@@ -13,6 +13,6 @@ defmodule Cachetest do
 
   """
   def hello do
-    :foobar
+    :world
   end
 end
