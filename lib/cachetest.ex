@@ -13,6 +13,7 @@ defmodule Cachetest do
 
   """
   def hello do
+    IO.puts "foo"
     :world
   end
 end
